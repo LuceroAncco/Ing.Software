@@ -1,3 +1,11 @@
+# Sistema de Pedidos de Comida - Cusco
+
+Proyecto para el Laboratorio 1 de Ingeniería de Software.
+Sistema web para gestionar pedidos de comida local.
+
+## Autor
+Mirian Lucero Ancco Ancalla - Ingeniería de Software
+
 ## Reflexión
 
 **¿Por qué Git es crítico en proyectos colaborativos?**
@@ -10,12 +18,10 @@ mensajes de commit), lo que facilita la comunicación y la trazabilidad dentro d
 
 **¿Qué problemas evita?**
 
-- Pérdida de código: si algo se rompe, siempre se puede volver a una versión anterior que
-  funcionaba (con `git log` y `git checkout`/`git revert`).
-- Sobrescritura de trabajo: sin control de versiones, dos personas editando el mismo archivo
-  podrían borrar el trabajo de la otra sin darse cuenta. Git detecta estos conflictos y obliga
-  a resolverlos manualmente.
-- Falta de trazabilidad: sin Git no se sabría quién hizo qué cambio ni cuándo, dificultando
-  encontrar el origen de un error.
-- Dependencia de un solo dispositivo: al subir el código a un repositorio remoto (como GitHub),
-  el proyecto no depende de una sola computadora; si esta falla, el trabajo no se pierde.
+- Pérdida de código: si algo se rompe, siemse pueder que
+  funcionaba (con `git log` y `git         checkout
+- Sobrescritura de trabajo: sin control de versioneismoarchivo
+  podríaa sindarse cuenta. Git detecta estos conflictos y obliga
+  a resolverlos manualmente.                   - Falta e sabríaquién hizo qué cambio ni cuándo, dificultando    encont
+- Dependencia de un solo dispositivo: al subir el códigmoGitHub),
+  el procomputadora; si esta falla, el trabajo no se pierde.
